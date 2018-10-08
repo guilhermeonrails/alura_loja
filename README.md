@@ -8,6 +8,3 @@ Para executar o projeto após o download, execute no terminal os seguintes coman
 
 * rails db:migrate
 
-versão do ruby '2.5.1'
-
-versão do rails '~> 5.2.1'
